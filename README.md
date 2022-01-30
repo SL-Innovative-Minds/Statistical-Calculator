@@ -27,10 +27,10 @@ After having vast knowledge through these learnings whole team suggest following
 Requirements
 
     1.  We need an application to analyze the given data set.
-    2.	It can be used to calculate mean, median, variance.
-    3.	When we enter a new data, the values should be automatically recalculated.
-    4.	The sorted data set should appear in this application.
-    5.	The position (in the Array List) of a particular value in the dataset should be given    when requested.
+    2.  It can be used to calculate mean, median, variance.
+    3.  When we enter a new data, the values should be automatically recalculated.
+    4.  The sorted data set should appear in this application.
+    5.  The position (in the Array List) of a particular value in the dataset should be given    when requested.
 
 As non-functional requirements, team decided to create a simple and user-friendly single interface application.
 
