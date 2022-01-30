@@ -17,14 +17,14 @@ When creating this application, following algorithms and data structures were us
   Binary search (expected to use):
   A searching algorithm to search some specified value position from given data set.
 
-# Requirements Specification - (done by whole team)
+# Requirements Specification 
 After proposal submitting whole team members spent two weeks to follow both online and offline resources related the theoretical knowledge on the algorithms and data structures those used in the project.
 
 Another week was spent to get a vast idea about how to manipulate and organize a data set statically, learn static formulas and how to use them.
 
 After having vast knowledge through these learnings whole team suggest following requirements as project requirements.
 
-  Requirements
+Requirements
 
     1.  We need an application to analyze the given data set.
     2.	It can be used to calculate mean, median, variance.
