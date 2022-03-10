@@ -14,7 +14,7 @@ When creating this application, following algorithms and data structures were us
   Expression tree:
   A non-linear data structure and a kind of a tree to store some data values and do their calculations according to the given order.
 
-  Binary search (expected to use):
+  Binary search:
   A searching algorithm to search some specified value position from given data set.
 
 # Requirements Specification 
